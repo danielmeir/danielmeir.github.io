@@ -111,3 +111,19 @@ text-decoration: none;
 word-wrap: break-word;}
 a.linkStyle_34:visited{color:#000000; text-decoration:none;}
 a.linkStyle_34:hover{color:#000000; text-decoration:none;}
+.linkStyle_37{font-family: 'CourierNewPSMT','Courier New',monospace;
+font-size: 16px; 
+color: #0432FF;
+text-decoration: underline; 
+/*000#00F900#FEFB00#FF2600*/
+word-wrap: break-word;}
+a.linkStyle_37:visited{color:#FEFB00; text-decoration:underline;}
+a.linkStyle_37:hover{color:#FF2600; text-decoration:underline;}
+.Style40{font-family: 'CourierNewPS-BoldMT','Courier New',monospace;
+font-size: 16px; 
+font-weight:700; 
+margin:0;
+word-wrap: break-word;}
+.Style41{font-family: 'CourierNewPSMT','Courier New',monospace;
+font-size: 16px; 
+word-wrap: break-word;}
