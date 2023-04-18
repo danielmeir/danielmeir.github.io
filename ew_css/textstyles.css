@@ -162,6 +162,21 @@
  font-weight:normal; 
  text-decoration: underline;
  word-wrap: break-word;}
+.linkStyle_47{font-family:  'CourierNewPSMT', 'Courier New' ,monospace ;
+ font-size: 12px; 
+ font-weight:normal; 
+ color: #000000;
+ text-decoration: none; 
+ /* 1 1 0 #00F900 #000000 #000000 */
+ word-wrap: break-word;}
+.linkStyle_47:visited{color:#000000; text-decoration:none;}
+.linkStyle_47:hover{color:#000000; text-decoration:none;}
+.Style50{font-family:  'CourierNewPS-BoldMT', 'Courier New' ,monospace ;
+ font-size: 12px; 
+ font-weight:700; 
+ word-wrap: break-word;}
+.Style37:visited{color:#FEFB00; text-decoration:none;}
+.Style37:hover{color:#FF2600; text-decoration:none;}
 a.outerlink{text-decoration:none}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
